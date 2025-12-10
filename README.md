@@ -59,7 +59,7 @@
     - Transform tracks and keys
     - Parenting vs Constraints
 - Using a 3D rigged character in the scene (20min)
-    - Getting content from Fab (MC Sample Animation Pack)
+    - Getting content from Fab ([MC Sample Animation Pack](https://fab.com/s/71059470c6ce))
     - Adding a 3D character and using a library of animations 
 - Quick Q&A (5min)
 
@@ -86,7 +86,7 @@
 - Quick Q&A (10min)
 
 ### Day 4: Using Odyssey for pixel-art games
-- Downloading Cobra Code project (10min)
+- Downloading [Cobra Code project](https://github.com/CobraCodeDev/TP_2DSideScrollerBP) (10min)
     - Changing UE versiong
     - Enabling Odyssey 
     - Testing the project
