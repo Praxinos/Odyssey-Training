@@ -14,8 +14,8 @@
 ## Course materials
 
 2 elements will be necassary:
-- this package on day 2 & 3:
-- this project on day 4:
+- this package on day 2 & 3: https://fab.com/s/71059470c6ce
+- this project on day 4: https://github.com/CobraCodeDev/TP_2DSideScrollerBP
 
 Additionally, you can use the contents from here as a guide to make sure you don't miss an important step:
 https://epicgames.box.com/s/gz8bvicwxgobaof5lksyuvl41egn3do1
