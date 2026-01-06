@@ -11,6 +11,17 @@
 - Praxinos website: https://praxinos.coop/
 - Praxinos Discord: https://discord.gg/gEd6pj7
 
+## Course materials
+
+2 elements will be necassary:
+- this package on day 2 & 3:
+- this project on day 4:
+
+Additionally, you can use the contents from here as a guide to make sure you don't miss an important step:
+https://epicgames.box.com/s/gz8bvicwxgobaof5lksyuvl41egn3do1
+
+These Powerpoint files can be read online (they are big, so you might need a little time to load them), but they are highly detailed.
+
 ## Odyssey training – January 2026 – Curriculum
 
 
