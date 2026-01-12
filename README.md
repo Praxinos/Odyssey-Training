@@ -27,8 +27,6 @@ These Powerpoint files can be read online (they are big, so you might need a lit
 
 ### Day 1 : 2D editor basics
 
-Web Powerpoint: https://1drv.ms/p/c/734ACC5544C62202/IQDD0_Qd2TkeTIK5wQRLEB6qAeVNUcbyAqBgbOsSMggChE8?e=UypzMk
-
 - Quick explanation : what’s Odyssey? (5min)
 - Starting a new project with an Odyssey Template (5min)
 - Basic interface: canvas, colour wheel and timeline (5min)
@@ -52,8 +50,6 @@ Web Powerpoint: https://1drv.ms/p/c/734ACC5544C62202/IQDD0_Qd2TkeTIK5wQRLEB6qAeV
 - Quick Q&A (15min)
 
 ### Day 2: 3D Editor basics
-
-Web Powerpoint: https://1drv.ms/p/c/734ACC5544C62202/IQDeeMjwMHGLRry6BE_U08mjAe2XTYNFa39gojMNe3apc-U?e=b1WP2R
 
 - Levels: explanation & creation (5min)
 - Unreal Engine main tools (30min)
@@ -81,8 +77,6 @@ Web Powerpoint: https://1drv.ms/p/c/734ACC5544C62202/IQDeeMjwMHGLRry6BE_U08mjAe2
           
 ### Day 3: Using the 2D animation actor in various contexts
 
-Web Powerpoint: https://1drv.ms/p/c/734ACC5544C62202/IQC5zqxlxwb4RLYN8jYKytrFASZzMM68_9TcY6TZAQZCZzE?e=JRCuz4
-
 - Introduction to Materials & Material Instances (30min)
     - Surface domains
     - Blending modes
@@ -104,8 +98,6 @@ Web Powerpoint: https://1drv.ms/p/c/734ACC5544C62202/IQC5zqxlxwb4RLYN8jYKytrFASZ
 - Quick Q&A (10min)
 
 ### Day 4: Using Odyssey for pixel-art games
-
-Web Powerpoint: https://1drv.ms/p/c/734ACC5544C62202/IQA5mklKpMNUTLOTTaRh-WX-AT7TzZtNyRsGqOloNxxGtCg?e=YiDqm2
 
 - Downloading [Cobra Code project](https://github.com/CobraCodeDev/TP_2DSideScrollerBP) (10min)
     - Changing UE versiong
