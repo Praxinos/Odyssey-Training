@@ -1,3 +1,23 @@
+# Unreal Specific files
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Plugins
+Config
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.DS_Store
+*.gitattributes
+
 # Visual Studio 2015 user specific files
 .vs/
 
