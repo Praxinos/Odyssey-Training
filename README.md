@@ -4,7 +4,7 @@
 
 - Reserve your spot here: https://www.eventbrite.com/e/unreal-engine-and-odyssey-online-training-tickets-1975122996050
 - Make sure you installed Odyssey - Follow this tutorial: https://youtu.be/r01hSy7RD6s
-- GitHub repository (it’s empty at the moment – you will find daily updates after each session): https://github.com/Praxinos/Odyssey-Training
+- GitHub repository (~~it’s empty at the moment –~~ you will find daily updates after each session): https://github.com/Praxinos/Odyssey-Training
 
 <img width="1902" height="976" alt="Screenshot 2025-12-10 at 16 07 13" src="https://github.com/user-attachments/assets/a776c1fc-f1c8-4954-bbb7-f9b8c1409ecb" />
 
