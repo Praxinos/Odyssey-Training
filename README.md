@@ -1,5 +1,8 @@
 # Odyssey-Training
 
+Take a survey! Let us know what you thought of this training!
+-> https://epicgames.questionpro.com/OdysseyTraining
+
 ## What you need to follow the Odyssey / Unreal Engine training?
 
 - Reserve your spot here: https://www.eventbrite.com/e/unreal-engine-and-odyssey-online-training-tickets-1975122996050
